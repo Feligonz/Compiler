@@ -1,0 +1,25 @@
+program {
+
+    i32 b,i,c,y;
+
+    const o=:5, p=:9;
+
+    fun a(i32 a,i32 b): i32 {
+            return (o/10);   
+    };
+    c=:a(i,c);
+    fun f(i32 a,i32 b): i32 {
+            return (5*i/10);   
+    };
+
+    c =: while ( i < 10 ) : (i =: i + 1 ) {
+        if (i = 10) then {
+                    break 1;
+                } end_if;
+            }else 3;
+    y =: while ( i < 10 ) : (i =: i + 1 ) {
+                    if (i = 10) then {
+                                break 1;
+                            } end_if;
+                        }else 3; 
+}
