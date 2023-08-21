@@ -1,10 +1,8 @@
 # Compiler
 
-This is a design and development of a real and working compiler for a programming language. It was designed for a professorship project "Compiler Design" in the year 2022 at UNCPBA. 
-It contemplates the stages of a compiler such as Lexical Analysis, Syntactic Analysis, Semantic Analysis, Optimizations whit intermedian code, and executable output.
+This is the design and development of a real and functional compiler for a programming language. It was designed for a "Compiler Design" course project in the year 2022 at UNCPBA. It encompasses the stages of a compiler such as Lexical Analysis, Syntax Analysis, Semantic Analysis, Intermediate Code Optimizations, and executable output.
 
-The project is developed in Java, using YACC as a synthetic parser.
-The language that it compiles is a "hypothetical" programming language given by the chair at that time. It is also shown in the reports within the project the structure of this language and how the project should be compiled.
+The project is developed in Java, using YACC as the syntax analyzer. The language it compiles is a "hypothetical" programming language provided by the course at that time. The project's reports also demonstrate the structure of this language and how the project must compile it.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
